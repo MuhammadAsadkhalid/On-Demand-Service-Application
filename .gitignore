@@ -1,0 +1,36 @@
+# General
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+bin/
+out/
+
+# Next.js
+.next/
+next-env.d.ts
+
+# Expo & React Native
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+/tmp/
+.temp/
