@@ -70,4 +70,4 @@ Use these pre-seeded accounts to explore the platform:
 - **Notifications**: Instant feedback for booking status changes.
 
 ---
-Built with ✨ by **Antigravity** for the Assessment.
+Built with hardwork ✨ for the Assessment.
